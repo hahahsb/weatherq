@@ -1,0 +1,37 @@
+
+01.<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  
+02.<html xmlns="http://www.w3.org/1999/xhtml">  
+03.<head>  
+04.<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
+05.<title></title>  
+06.</head>  
+07.<body>  
+08.代码1  
+09.<br>  
+10. <iframe ID='ifm2' width='189' height='190' align='center' marginwidth='0'  
+11.    marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no'  
+12.    src='http://weather.qq.com/inc/ss258.htm'></iframe>  
+13.<br>  
+14.  
+15.代码2  
+16.<br>  
+17.  <IFRAME ID='ifm2' width='260' height='70' align='center' marginwidth='0'  
+18.    marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no'  
+19.   src="http://news.sina.com.cn/iframe/weather/130101.html"></iframe>  
+20.<br>  
+21.  
+22.代码3  
+23.<br>  
+24.<iframe ID='ifm1' width='405' height='332' align='center' marginwidth='0'  
+25.    marginheight='0' hspace='0' vspace='0' FRAMEBORDER='0' scrolling='no'  
+26.    src="http://weather.qq.com/24.htm"></iframe>  
+27.<br>  
+28.  
+29.代码4  
+30.<br>  
+31.     <iframe width="145" height="150" border="0" align="center" marginwidth="0"  
+32.    marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"  
+33.    src="http://minisite.qq.com/Weather/news_new.html" allowTransparency="true"></iframe>  
+34.</body>  
+35.  
+36.</html>  
